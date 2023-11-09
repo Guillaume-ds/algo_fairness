@@ -124,4 +124,5 @@ cython_debug/
 .jupyterlab-debug.log
 
 .DS_Store
+notebooks/.DS_Store
 notebooks/catboost_info
